@@ -2,24 +2,12 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Japanese Student Association
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
-labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+date: 2016-12-06
+summary: I was an officer for the Japanese Student Association at the University of Washington for two years.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+  While I attended the University of Washington, I was an officer for the Japanese Student Assocation. As an officer, I worked with fellow officers and the community to plan events and spread Japanese culture. The first year, I was on the Cultural Team, so I focused on planning events that related to Japanese culture. The second year, I was on the Internal Team, which meant I focused on planning other events, such as those in collaboration with other student organizations. Additionally, I was on the Games Team for Matsuri, which is our biggest event of the year. It is a festival that includes food, games, and performances.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+  I enjoyed being a part of this organization because it gave me the opportunity to be part of something that I cared about. As someone who was born and raised in Japan, I deeply care about Japanese culture. It gave me a chance to show what I am passionate about. It also allowed me to learn how to work with others. I was constantly working with other officers to plan events, and I gained valuable experience in doing so. I learned the importance of doing my part and providing and listening to feedback. I also learned communication skills, as I was required to correspond with various people and groups to make our events a success.
