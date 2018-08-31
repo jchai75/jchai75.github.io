@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/uw.png
 title: Search Engine
 permalink:
 # All dates must be YYYY-MM-DD format!
