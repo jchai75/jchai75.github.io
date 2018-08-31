@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project 
-image: images/vacay-square.png
+image: images/jsa.jpg
 title: Japanese Student Association
 # All dates must be YYYY-MM-DD format!
 date: 2016-12-06
