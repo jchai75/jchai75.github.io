@@ -2,43 +2,18 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Search Engine
+permalink:
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-11-29
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+summary: I helped build a search engine for an assignemnt for CSE 373 at the University of Washington.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
-
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
-
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+  While attending the University of Washington, I took CSE 373, Data Structures and Algorithms. The last assignents required students to build a basic search engine. All assignments allowed working with a classmate, so I worked together with a partner. To provide a ranking metric, we were to implement Term Frequency and Inverse Document Frequency (TF-IDF) ranking, which helped determine how "important" a given word is to a given document. Also, because there are websites that try to maximize search traffic by keyword stuffing, stuffing pages with as many different words and phrases possible, we were to implement a simple version of PageRank, an algorithm that computes the relative "importance" or "reputability" of a webpage based on what webpages link to it. In order to test our programs, we used a small set of Wikipedia pages.
+  
+  This projects not only allowed me to improve my Java skills, but also experience working with another person. This was the first time I had collaborated with someone else for coding. I learned that it is very helpful to have another set of eyes to review your work. Often my partner would point out things that I would not have been able to see right away. I learned how to be a good team player, by working well individually, on my parts of the assignment, as well as with with others, when we came together and pieced together our programs. I will the carry the skills I've learned during this experience to my future endeavors.
 
 
 
