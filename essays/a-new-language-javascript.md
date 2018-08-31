@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout: essays
+type: essays
 title: A New Language: Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
