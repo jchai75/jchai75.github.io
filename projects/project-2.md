@@ -1,6 +1,6 @@
 ---
 layout: project
-type: project
+type: Extracurriculars 
 image: images/vacay-square.png
 title: Japanese Student Association
 # All dates must be YYYY-MM-DD format!
