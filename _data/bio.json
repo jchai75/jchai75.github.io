@@ -2,14 +2,14 @@
   "basics": {
     "name": "Julie Chai",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://techfolios.github.io/images/profilepicture.png",
     "email": "jschai@hawaii.edu",
     "phone": "",
     "website": "https://jchai75.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96815",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -22,14 +22,24 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "juliechai",
+        "url": "http://linkedin.com/in/julie-chai-98a08516a/"
       },
     ]
   },
   "interests": [
     {
       "name": "artificial intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "machine learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "iOS app development",
       "keywords": [
       ]
     }
