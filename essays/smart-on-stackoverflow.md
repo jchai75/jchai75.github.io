@@ -5,14 +5,10 @@ title: Smart on StackOverflow
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-06
 labels:
-  - Javascript
   - Learning
 ---
 
-  In ICS 212 at the University of Hawaii, I have started learning a new language, Javascript. I was always aware of its existence, but I never tried to learn it on my own, so this was the first time I had been exposed to the language. I was both excited and nervous, but more eager to expand my horizons. Previously, I had only learned Java, so I wanted to widen my breadth.
-
-  I first started learning using the Free Code Camp. Their tutorials were easy to follow and enabled me to quickly pick up the basics of the language. I was relieved to see that the similarities to Java really helped me breeze through the first few topics. I was afraid that everything would look foreign to me, but I was glad to see that that was not the case. Additionally, we do timed exercises, which help solidify my knowledge of the language. Although time limits do create a sense of pressure, I believe that they are effective because they force me to really make sure I understand the material beforehand. I tend to procrastinate sometimes so it pushes me and keeps me motivated.
-
-  It was interesting to compare and contrast Javascript with Java. Because Java was the only language I really knew, it was interesting to see how other languages differed in syntax. So far, what has amused me the most is the fact that I don’t need to declare variable types. It was a little unsettling not specifying that a certain variable was an int, string, or array. It made my code look too flexible, too malleable. However, I learned that that is not always a bad thing. I am looking forward to diving further into the depths of the language.
-
+  Stack Overflow is the savior of any programmer. It's a place where people feel comfortable posting any type of question relating to coding. However, there is a certain way to ask questions on this forum that proves to be more effective.
+  Here is an example of a good question. The title is: "for loop not working as expected with string replacement". It is quite descriptive and lets viewers know the basic idea of the post. Also, within the post, the poster provides examples of what he or she is trying to acheive. This helps potential answerers to get a better idea of the content of the question. THe poster also provides the code he or she has written so far to show his or her current work.
+  Here is an example of a bad question. The title is: "Create ArrayList from array." The title could be a little more descriptive. However, the main problem with this question is its simplicity. The top answer is just one short line of code. This is a common question, and the poster could have easily found an answer with a quick Google search. Programmers should always try to find the answer to a question on their own before resorting to forums like Stack Overflow. 
 
