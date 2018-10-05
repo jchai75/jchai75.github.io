@@ -9,9 +9,14 @@ labels:
   - Learning
 ---
 
-  Stack Overflow is the savior of any programmer. It's a place where people feel comfortable posting any type of question relating to coding. However, there is a certain way to ask questions on this forum that proves to be more effective.
-  Here is an example of a good question. The title is: "for loop not working as expected with string replacement". It is quite descriptive and lets viewers know the basic idea of the post. Also, within the post, the poster provides examples of what he or she is trying to achieve. This helps potential answerers to get a better idea of the content of the question. THe poster also provides the code he or she has written so far to show his or her current work.
+## General Thoughts
+Generally, I have enjoyed using Semantic UI. After using both Semantic and raw HTML and CSS, I understand the advantages of UI frameworks. Semantic's lanuguage is more intuitive and natural. Because it's closer to regular human language, it was easier to understand. I could truly see how it attempts to make coding more user-friendly. This helps alleviate some of the stress that accompanies learning a new programming language. Just like learning a foregin language, learning a programming language comes with an introduction to new syntax and rules. Relating new material to familiar material helps with the intake of information.
   
-  Here is an example of a bad question. The title is: "Create ArrayList from array." The title could be a little more descriptive. However, the main problem with this question is its simplicity. The top answer is just one short line of code. This is a common question, and the poster could have easily found an answer with a quick Google search. Programmers should always try to find the answer to a question on their own before resorting to forums like Stack Overflow. 
+## Positive Experiences
+One reason why I enjoyed using Semantic is exploring all the pre-made features they have available. It was fun seeing all the different collections and elements and seeing which best fit my needs. If I tried one feature and it didn't work, there was likely another one that could work. Also, the variations on each feature were interesting to look over.
+
+
+## Negative Experiences
+One reason why I struggled a bit with Semantic is the lack of resources. Because it is not as widely used as programming languages, such as javascript, I had some trouble finding help when I needed it. StackOverflow and other helpful sites often had limited content on Semantic, especially when I had a very specific question. However, this did force me to try to fix my roadblocks on my own, instead of relying on other sources, which may have helped build my problem-sovling skills.
 
 
