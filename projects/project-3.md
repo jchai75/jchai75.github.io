@@ -2,14 +2,21 @@
 layout: project
 type: project
 image: images/juku.jpg
-title: Tutoring
+title: Manoa Club Room
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2018-06-12
-summary: I was a tutor for elementary to high school students during the summer of 2018.
+date: 2018-12-06
+summary: I helped develop an app that helps UH students explore clubs on campus.
 ---
+Github repository: https://github.com/manoaclubroom/manoaclubroom
+Home page: https://manoaclubroom.github.io/
 
-  During the summer of 2018, I worked at Dr. Takahashi Juku, a tutoring center focusing on test preparation. I taught students from elementary to high school level in math, English, and test preparation. However, I specialized in high school math. Although I only worked there for a few months, I enjoyed the experience and learned a lot.
+  In my ICS 314 (Software Engineering) course at the University of Hawaii, I helped develop a meteor app that helps UH students explore clubs on campus. The app allows regular users to create an account and profile, search through the list of clubs based on name and interests, view clubs that match their interests, and send in a request to display their club information. If their request is approved, their status is upgraded to club admin, and they can now edit their club information. If they are a super admin, they can also approve or decline club requests and delete clubs.
   
-  This was the first time that I worked a lot with children, so I learned a lot about interacting with them. Each student was different; they had unique personalities and ways that they preferred to learn. It was my job to evaluate this information and use it to most effectively teach the material. I learned that teaching takes a lot of patience; just because the concepts seemed easy to understand to me, it didn't mean it was the same for my students. I had to learn to see things their way in order to best teach them the material. I also learned to work well with other employees at my workplace. I learned to communicate well, such as telling management about the progress of my students. 
-
+  I primarily contributed to the implementation of the user profile and interests. For the user profile, I edited the signup page so that users must create a profile when registering their account. The fields were name, interests, and major. I created a page that lists clubs that match up with the user's listed interests. This is so that they don't have to always search the list of clubs manually. I also created a page that lists the club interest tags, such as medical, animals, and sports. They are able to add and delete as they wish.
+  
+  I learned a lot about app building and project management during this project. It was the first time that I built a more sohpisticated app and worked with a larger team. I learned a lot about the skills that come with working with others: time management, communication, work allocation, just to name a few. It was a valuable experience for me because I am so used to working alone and being in control of everything. However, with other people, I had to learn to be a good team member and work together to create a good project. I also really enjoyed building the app and plan to explore it more in the future.
+  
+  
+  
+  
