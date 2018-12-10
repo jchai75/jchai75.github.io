@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/manoaclubroom.jpg
+image: images/manoaclubprofile.jpg
 title: Manoa Club Room
 permalink: projects/cotton
 labels:
@@ -12,7 +12,7 @@ date: 2018-12-06
 summary: I helped develop an app that helps UH students explore clubs on campus.
 ---
 
-![Image Manoa Club Profile](/images/manoaclubprofile.png)
+![Image Manoa Club Profile](/images/manoaclubroom.png)
 
 ## Introduction
 
