@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "iOS app development",
+      "name": "algorithms",
       "keywords": [
       ]
     }
@@ -50,8 +50,10 @@
       "level": "",
       "keywords": [
         "C",
+        "C++",
         "Java",
         "Javascript",
+        "SQL",
       ]
     },
     {
@@ -59,6 +61,7 @@
       "level": "",
       "keywords": [
         "MacOS",
+        "MySQL",
         "Git/GitHub",
       ]
     }
@@ -72,6 +75,9 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "CSE 142: Computer Programming I",
+        "CSE 143: Computer Programming II",
+        "CSE 373: Data Structures and Algorithms"
       ]
     },
     {
@@ -82,6 +88,10 @@
       "endDate": "2018-03-09",
       "gpa": "",
       "courses": [
+        "ICS 212: Program Structure",
+        "ICS 241: Discrete Mathematics for Computer Science II"
+        "ICS 314: Software Engineering I"
+        "ICS 321: Database Systems I"
       ]
     }
   ],
