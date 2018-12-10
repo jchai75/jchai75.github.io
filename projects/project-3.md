@@ -4,6 +4,9 @@ type: project
 image: images/manoaclubroom.jpg
 title: Manoa Club Room
 permalink: projects/cotton
+labels:
+  - Javascript
+  - Project management
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-06
 summary: I helped develop an app that helps UH students explore clubs on campus.
