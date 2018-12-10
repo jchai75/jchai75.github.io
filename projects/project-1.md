@@ -11,7 +11,7 @@ labels:
 summary: I helped build a search engine for an assignemnt for CSE 373 at the University of Washington.
 ---
 
-![Image of search engine](/images/search.png)
+![Image of search engine](/images/search.png | width=100)
 
 ## Introduction
 
