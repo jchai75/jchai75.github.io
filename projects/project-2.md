@@ -10,8 +10,7 @@ labels:
 date: 2016-12-06
 summary: I was an officer for the Japanese Student Association at the University of Washington for two years.
 ---
-
-![Image of Matsuri](/images/matsuri.png)
+<img src="/images/matsuri.png" width="300">
 
   While I attended the University of Washington, I was an officer for the Japanese Student Assocation. As an officer, I worked with fellow officers and the community to plan events and spread Japanese culture. The first year, I was on the Cultural Team, so I focused on planning events that related to Japanese culture. The second year, I was on the Internal Team, which meant I focused on planning other events, such as those in collaboration with other student organizations. Additionally, I was on the Games Team for Matsuri, which is our biggest event of the year. It is a festival that includes food, games, and performances.
 
