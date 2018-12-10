@@ -11,7 +11,7 @@ labels:
 ## Introduction
   In ICS 314 at the University of Hawaii, I have started learning a new language, Javascript. I was always aware of its existence, but I never tried to learn it on my own, so this was the first time I had been exposed to the language. I was both excited and nervous, but more eager to expand my horizons. Previously, I had only learned Java, so I wanted to widen my breadth.
 
-## Initial learning
+## Initial Learning
   I first started learning using the Free Code Camp. Their tutorials were easy to follow and enabled me to quickly pick up the basics of the language. I was relieved to see that the similarities to Java really helped me breeze through the first few topics. I was afraid that everything would look foreign to me, but I was glad to see that that was not the case. Additionally, we do timed exercises, which help solidify my knowledge of the language. Although time limits do create a sense of pressure, I believe that they are effective because they force me to really make sure I understand the material beforehand. I tend to procrastinate sometimes so it pushes me and keeps me motivated.
 
 ## Reflection
