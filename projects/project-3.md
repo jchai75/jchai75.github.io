@@ -11,6 +11,9 @@ labels:
 date: 2018-12-06
 summary: I helped develop an app that helps UH students explore clubs on campus.
 ---
+
+![Image Manoa Club Profile](/images/manoaclubprofile.png)
+
 ## Introduction
 
   In my ICS 314 (Software Engineering) course at the University of Hawaii, I helped develop a meteor app that helps UH students explore clubs on campus. The app allows regular users to create an account and profile, search through the list of clubs based on name and interests, view clubs that match their interests, and send in a request to display their club information. If their request is approved, their status is upgraded to club admin, and they can now edit their club information. If they are a super admin, they can also approve or decline club requests and delete clubs.
