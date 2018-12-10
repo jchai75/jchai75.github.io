@@ -77,7 +77,7 @@
       "courses": [
         "CSE 142: Computer Programming I",
         "CSE 143: Computer Programming II",
-        "CSE 373: Data Structures and Algorithms"
+        "CSE 373: Data Structures and Algorithms",
       ]
     },
     {
@@ -89,9 +89,9 @@
       "gpa": "",
       "courses": [
         "ICS 212: Program Structure",
-        "ICS 241: Discrete Mathematics for Computer Science II"
-        "ICS 314: Software Engineering I"
-        "ICS 321: Database Systems I"
+        "ICS 241: Discrete Mathematics for Computer Science II",
+        "ICS 314: Software Engineering I",
+        "ICS 321: Database Systems I",
       ]
     }
   ],
