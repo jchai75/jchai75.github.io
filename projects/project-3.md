@@ -24,6 +24,7 @@ summary: I helped develop an app that helps UH students explore clubs on campus.
   I learned a lot about app building and project management during this project. It was the first time that I built a more sohpisticated app and worked with a larger team. I learned a lot about the skills that come with working with others: time management, communication, work allocation, just to name a few. It was a valuable experience for me because I am so used to working alone and being in control of everything. However, with other people, I had to learn to be a good team member and work together to create a good project. I also really enjoyed building the app and plan to explore it more in the future.
   
 Github repository: https://github.com/manoaclubroom/manoaclubroom
+
 Home page: https://manoaclubroom.github.io/
   
   
