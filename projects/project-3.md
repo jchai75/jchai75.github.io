@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/juku.jpg
+image: images/manoaclubroom.jpg
 title: Manoa Club Room
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
