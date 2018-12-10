@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/manoaclubprofile.jpg
+image: images/manoaclubprofile.png
 title: Manoa Club Room
 permalink: projects/cotton
 labels:
