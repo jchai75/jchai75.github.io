@@ -12,7 +12,7 @@ date: 2018-12-06
 summary: I helped develop an app that helps UH students explore clubs on campus.
 ---
 
-<img src="/images/manoaclubroom.jpg" width="300")
+<img src="/images/manoaclubroom.jpg" width="300"/>
 
 ## Introduction
 
